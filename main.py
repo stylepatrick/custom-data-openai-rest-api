@@ -12,7 +12,7 @@ from langchain.vectorstores import Chroma
 from models.AnswerModel import Answer
 from models.QuestionModel import Question
 
-os.environ["OPENAI_API_KEY"] = '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'
+os.environ["OPENAI_API_KEY"] = 'API-KEY'
 
 # save to disk and reuse the model (repeated queries on the same data)
 PERSIST = False
