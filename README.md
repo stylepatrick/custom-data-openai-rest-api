@@ -1,5 +1,5 @@
 # custom-data-openai-rest-api
-OpenAI linked with custom data and REST API for questions
+OpenAI linked with custom data provided in the /data folder and REST API for questions
 
 Installation:
 `pip install langchain openai chromadb tiktoken unstructured`
