@@ -41,3 +41,17 @@ Answer:
     "text": "Based on the given information, you have two sisters."
 }
 ```
+
+## Question 3:
+Question:
+```
+{
+    "text": "Who is Obama?"
+}
+```
+Answer:
+```
+{
+    "text": "Barack Obama is an American politician who served as the 44th President of the United States from 2009 to 2017. He is not related to the context given."
+}
+```
